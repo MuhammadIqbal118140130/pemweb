@@ -2,4 +2,4 @@ Nama	: Muhammad Iqbal
 NIM	: 118140130
 
 Tugas Individu 1 Mata kuliah Pemrograman Web RA
-link laporan :[pemweb1.docx](https://github.com/user-attachments/files/17132831/pemweb1.docx)
+link laporan : [118140130_tugas1_pemweb.pdf](https://github.com/user-attachments/files/17133040/118140130_tugas1_pemweb.pdf)
